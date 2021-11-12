@@ -1,1 +1,1 @@
-# haptic-neural-decoding
+# modeling-haptic-code
